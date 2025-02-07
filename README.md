@@ -8,7 +8,7 @@
 <tr>
   <td align="center">
     <img src="https://github.com/SoleiI.png?size=100" width="120px" height="120px"/><br/>
-    <a href="https://github.com/SoleiI">김미선</a>
+    <a href="https://github.com/SoleiI">김민선</a>
   </td>
   <td align="center">
     <img src="https://github.com/wet6123.png?size=100" width="120px" height="120px"/><br/>
