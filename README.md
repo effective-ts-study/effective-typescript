@@ -18,25 +18,6 @@
     <img src="https://github.com/daejlee.png?size=100" width="120px" height="120px"/><br/>
     <a href="https://github.com/daejlee">이대진</a>
   </td>
-  <td align="center">
-    <img src="https://github.com/sihyuuun.png?size=100" width="120px" height="120px"/><br/>
-    <a href="https://github.com/sihyuuun">이시현</a>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://github.com/kongnayeon.png?size=100" width="120px" height="120px"/><br/>
-    <a href="https://github.com/kongnayeon">강나연</a>
-  </td>
-  <td align="center">
-    <img src="https://github.com/seeun0210.png?size=100" width="120px" height="120px"/><br/>
-    <a href="https://github.com/seeun0210">김세은</a>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Eomhyunjun.png?size=100" width="120px" height="120px"/><br/>
-    <a href="https://github.com/Eomhyunjun">엄현준</a>
-  </td>
-</tr>
 </table>
 
 ## ⏰ 스터디 시간
@@ -80,4 +61,5 @@
 | 3    | 2/17      | 3. 타입 추론      | 배준성, 이대진, 김민선 | 김민선 |             |
 | 4    | 2/24      | 4. 타입 설계      | 배준성, 이대진, 김민선 | 이대진 | 5,6회차 날짜 조정 |
 | 5    | 3/5       | 5. any 다루기    | 배준성, 이대진, 김민선 | 배준성, 김민선 |             |
-| 6    | 3/12       | 6. 타입 선언과 @types    | | |             |
+| 6    | 3/12      | 6. 타입 선언과 @types    | 배준성, 이대진, 김민선 | 배준성 |             |
+| 7    | 3/19      | 7. 코드를 작성하고 실행하기 | | |             |
